@@ -1,1 +1,5 @@
-{"id": "Cow"}
+{
+	"class": "net.minecraft.entity.passive.EntityCow",
+	"name": "Cow",
+	"description": ""
+}

@@ -1,0 +1,5 @@
+{
+	"class": "net.minecraft.entity.boss.EntityWither",
+	"name": "Wither",
+	"description": ""
+}
